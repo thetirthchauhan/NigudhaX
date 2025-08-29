@@ -1,0 +1,40 @@
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller / temporary
+*.manifest
+*.spec
+!StegTool.spec
+# (StegTool.spec explicitly included.)
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Logs / temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Misc
+*.bak

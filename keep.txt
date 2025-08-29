@@ -1,0 +1,16 @@
+Run (source, after installing deps):
+python -m steg_tool.app
+
+Install deps (once):
+pip install -r steg_tool/requirements.txt
+
+Build single-file EXE (optional):
+pyinstaller -F -w steg_tool/app.py -n StegTool
+
+Run built EXE:
+dist/StegTool.exe
+
+Usage:
+1. Encrypt tab: choose Carrier (e.g. photo.jpg) + Payload (e.g. page.html) + optional password -> Hide File
+2. Send resulting packed .jpg
+3. Decrypt tab: select packed .jpg + destination folder (+ password if used) -> Extract Hidden File
