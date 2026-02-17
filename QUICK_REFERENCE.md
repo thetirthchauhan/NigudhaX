@@ -43,31 +43,22 @@ python -m steg_tool.app
 
 ---
 
-## 🎓 For University Submission
+## 🎓 Project Documentation
 
 ### What's Included:
 - ✅ **README.md** - Full project documentation with name story
 - ✅ **USER_GUIDE.md** - Detailed step-by-step manual
-- ✅ **EMAIL_TEMPLATE.md** - Professional email for professor
+- ✅ **PROJECT_SUMMARY.md** - Technical overview and specifications
+- ✅ **QUICK_REFERENCE.md** - Quick start guide (this file)
 - ✅ **Source Code** - Well-commented Python code
 - ✅ **Technical Docs** - Format specifications and details
 
-### Key Points for Your Report:
+### Key Points About the Project:
 1. **Name Significance**: Sanskrit origin + modern cryptography
 2. **Technology**: Python, Tkinter GUI, ChaCha20 encryption
 3. **Features**: Hide any file, optional encryption, integrity checks
 4. **Use Cases**: Privacy, security, digital watermarking, education
 5. **Advantages**: User-friendly, cross-platform, secure
-
----
-
-## 📧 Email Your Professor
-
-Use the template in `EMAIL_TEMPLATE.md`. Just replace:
-- [Professor's Name]
-- [Course Name/Code]
-- [Your Full Name]
-- [Your Student ID]
 
 ---
 
@@ -113,8 +104,9 @@ Use the template in `EMAIL_TEMPLATE.md`. Just replace:
 NigudhaX/
 ├── README.md              ← Main documentation (READ FIRST)
 ├── USER_GUIDE.md          ← Step-by-step manual
-├── EMAIL_TEMPLATE.md      ← Email for professor
-├── QUICK_REFERENCE.md     ← This file
+├── PROJECT_SUMMARY.md     ← Technical overview
+├── QUICK_REFERENCE.md     ← This file (quick start)
+├── DOCS_INDEX.md          ← Documentation index
 ├── steg_tool/
 │   ├── README.md          ← Technical details
 │   ├── app.py             ← GUI application

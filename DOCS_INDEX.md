@@ -14,9 +14,6 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 ### For Quick Setup
 👉 **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Get started in 5 minutes
 
-### For University Submission
-👉 **[EMAIL_TEMPLATE.md](EMAIL_TEMPLATE.md)** - Email template for your professor
-
 ---
 
 ## 📖 Complete Documentation List
@@ -69,38 +66,16 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 
 ---
 
-### 3. 📧 Email Template
-**File:** [EMAIL_TEMPLATE.md](EMAIL_TEMPLATE.md) (7.6 KB, 275 lines)
-
-**Contents:**
-- Professional email template (full version)
-- Alternative short email template
-- Email checklist
-- Follow-up email template
-- Subject line suggestions
-- Tips for professional communication
-- Attachment guidelines
-
-**Use this when:**
-- You're ready to submit to your professor
-- You need to write a formal project submission email
-- You want to follow up on your submission
-- You need professional communication guidance
-
----
-
-### 4. ⚡ Quick Reference
+### 3. ⚡ Quick Reference
 **File:** [QUICK_REFERENCE.md](QUICK_REFERENCE.md) (5.8 KB, 223 lines)
 
 **Contents:**
 - Quick start (install & run in 3 commands)
 - Basic operations summary
-- University submission checklist
 - Key features to highlight
 - Project advantages summary
 - Example use cases
 - What makes the project special
-- Pre-submission checklist
 
 **Use this when:**
 - You need a quick overview
@@ -110,7 +85,7 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 
 ---
 
-### 5. 📊 Project Summary
+### 4. 📊 Project Summary
 **File:** [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) (11 KB, 353 lines)
 
 **Contents:**
@@ -139,7 +114,7 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 
 ---
 
-### 6. 🔧 Technical Documentation
+### 5. 🔧 Technical Documentation
 **File:** [steg_tool/README.md](steg_tool/README.md)
 
 **Contents:**
@@ -159,7 +134,7 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 
 ---
 
-### 7. 📋 Quick Setup Instructions
+### 6. 📋 Quick Setup Instructions
 **File:** [keep.txt](keep.txt)
 
 **Contents:**
@@ -186,12 +161,6 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 2. Then: [USER_GUIDE.md](USER_GUIDE.md) - "Installation"
 3. Finally: [USER_GUIDE.md](USER_GUIDE.md) - "Basic Operations"
 
-### For University Submission
-1. Read: [README.md](README.md) - Complete overview
-2. Review: [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) - For report writing
-3. Use: [EMAIL_TEMPLATE.md](EMAIL_TEMPLATE.md) - To email professor
-4. Check: [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Pre-submission checklist
-
 ### For Technical Understanding
 1. Start: [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) - "Technical Specifications"
 2. Then: [steg_tool/README.md](steg_tool/README.md) - Format details
@@ -210,10 +179,9 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 |----------|------|-------|---------|
 | README.md | 13 KB | 377 | Main documentation |
 | USER_GUIDE.md | 14 KB | 491 | User manual |
-| EMAIL_TEMPLATE.md | 7.6 KB | 275 | Email templates |
 | QUICK_REFERENCE.md | 5.8 KB | 223 | Quick guide |
 | PROJECT_SUMMARY.md | 11 KB | 353 | Executive summary |
-| **Total** | **~51 KB** | **1,719** | Complete docs |
+| **Total** | **~44 KB** | **1,444** | Complete docs |
 
 ---
 
@@ -236,9 +204,6 @@ This index helps you navigate all the documentation for the NigudhaX steganograp
 
 **...extract a hidden file**
 → [USER_GUIDE.md](USER_GUIDE.md) - "Extracting Files (Decryption)"
-
-**...submit this to my professor**
-→ [EMAIL_TEMPLATE.md](EMAIL_TEMPLATE.md)
 
 **...prepare a presentation**
 → [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - "For Presentations/Demos"  
@@ -304,20 +269,17 @@ Follow this sequence:
 
 ---
 
-## ✅ Verification Checklist
+## ✅ Getting Started Checklist
 
-Before submission, ensure you have:
+To use NigudhaX effectively:
 
 - [ ] Read README.md completely
 - [ ] Tested installation following USER_GUIDE.md
 - [ ] Successfully hidden and extracted test files
-- [ ] Filled in EMAIL_TEMPLATE.md with your details
 - [ ] Reviewed QUICK_REFERENCE.md for key points
 - [ ] Read PROJECT_SUMMARY.md for technical understanding
-- [ ] Prepared screenshots/demo (if required)
 - [ ] Checked all links work
-- [ ] Proofread your email
-- [ ] Verified repository is accessible
+- [ ] Explored example use cases
 
 ---
 
@@ -356,13 +318,12 @@ Before submission, ensure you have:
 **2025-02-17**: Initial documentation creation
 - Created README.md with complete project overview
 - Created USER_GUIDE.md with step-by-step instructions
-- Created EMAIL_TEMPLATE.md for submission
 - Created QUICK_REFERENCE.md for quick access
 - Created PROJECT_SUMMARY.md for technical overview
 - Created DOCS_INDEX.md (this file)
 
 ---
 
-**Happy learning and good luck with your submission! 🎓**
+**Happy learning! 🎓**
 
 *Remember: NigudhaX (निगूढ + X) = Tool to hide the unknown*

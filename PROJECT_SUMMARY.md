@@ -262,19 +262,24 @@ Teach students about steganography and cryptography concepts.
    - Best practices
    - FAQ section
 
-3. **EMAIL_TEMPLATE.md** (7.6KB)
-   - Professional email templates
-   - Submission guidelines
-   - Follow-up templates
-   - Checklist
+3. **PROJECT_SUMMARY.md** (11KB)
+   - Executive summary
+   - Technical specifications
+   - Security analysis
+   - Educational value
 
-4. **QUICK_REFERENCE.md** (5.7KB)
+4. **QUICK_REFERENCE.md** (5.8KB)
    - Quick start guide
    - Common operations
    - Key features summary
    - Example use cases
 
-5. **Technical README** (in steg_tool/)
+5. **DOCS_INDEX.md** (11KB)
+   - Documentation navigation
+   - Quick access guide
+   - Purpose-based organization
+
+6. **Technical README** (in steg_tool/)
    - Format specifications
    - API documentation
    - Implementation notes
