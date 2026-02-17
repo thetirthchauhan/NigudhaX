@@ -161,26 +161,6 @@ NigudhaX/
 
 ---
 
-## 🎯 For Presentations/Demos
-
-### Show These Steps:
-1. Launch application (show GUI)
-2. Hide a sample PDF in an image
-3. Open the steg image (proves it still works)
-4. Extract the PDF successfully
-5. Show file size comparison
-6. Explain encryption option
-7. Show documentation quality
-
-### Talking Points:
-- "Nigudha means hidden in Sanskrit..."
-- "Notice the image still opens normally..."
-- "With password, data is encrypted..."
-- "SHA-256 ensures integrity..."
-- "Works on any platform..."
-
----
-
 ## 📞 Need Help?
 
 1. **Read**: README.md for overview
@@ -212,4 +192,4 @@ NigudhaX/
 
 ---
 
-*Good luck with your submission! 🎓*
+*Good luck to Hide X with NigudhaX🎓*
